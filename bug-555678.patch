@@ -1,0 +1,51 @@
+--- Meera.sfd	2010-08-10 16:21:33.000000000 +0530
++++ Meera.sfd_mod	2010-08-10 16:31:09.000000000 +0530
+@@ -19,7 +19,7 @@ OS2Version: 1
+ OS2_WeightWidthSlopeOnly: 0
+ OS2_UseTypoMetrics: 1
+ CreationTime: 1201144287
+-ModificationTime: 1275976264
++ModificationTime: 1281438003
+ PfmFamily: 17
+ TTFWeight: 400
+ TTFWidth: 5
+@@ -60,7 +60,12 @@ Lookup: 4 0 0 "'pres' Pre Base Substitut
+ Lookup: 4 0 0 "'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5"  {"'psts' Post Base Substitutions in Malay+AQEA-lam lookup 5 subtable"  } ['psts' ('mlym' <'dflt' > ) ]
+ Lookup: 4 0 0 "'haln' Halant Forms in Malay+AQEA-lam lookup 6"  {"'haln' Halant Forms in Malay+AQEA-lam lookup 6 subtable"  } ['haln' ('mlym' <'dflt' > ) ]
+ Lookup: 4 0 0 "'pstf' Post Base Forms in Malay+AQEA-lam lookup 7"  {"'pstf' Post Base Forms in Malay+AQEA-lam lookup 7 subtable"  } ['pstf' ('mlym' <'dflt' > ) ]
++Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0-1"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > 'mlym' <'dflt' > ) ]
+ DEI: 91125
++KernClass2: 2 2 "'kern' Horizontal Kerning lookup 0-1" 
++ 2 xx
++ 448 .null CR space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen period slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde uni00AD
++ 0 {} 0 {} 0 {} 299 {}
+ TtTable: prep
+ PUSHW_1
+  511
+@@ -325,7 +330,7 @@ NameList: Adobe Glyph List
+ DisplaySize: -48
+ AntiAlias: 1
+ FitToEm: 1
+-WinInfo: 48 24 10
++WinInfo: 65975 25 13
+ BeginChars: 66510 1154
+ 
+ StartChar: .notdef
+@@ -2881,7 +2886,7 @@ EndChar
+ 
+ StartChar: uni0D02
+ Encoding: 3330 3330 100
+-Width: 567
++Width: 595
+ GlyphClass: 2
+ Flags: W
+ LayerCount: 2
+@@ -2910,7 +2915,7 @@ EndChar
+ 
+ StartChar: uni0D03
+ Encoding: 3331 3331 101
+-Width: 376
++Width: 387
+ GlyphClass: 2
+ Flags: W
+ LayerCount: 2

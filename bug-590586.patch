@@ -1,0 +1,17 @@
+diff -rup malayalam-fonts-04/malayalam-fonts.conf malayalam-fonts-04_mod/malayalam-fonts.conf
+--- malayalam-fonts-04/malayalam-fonts.conf	2010-06-18 16:15:48.000000000 +0530
++++ malayalam-fonts-04_mod/malayalam-fonts.conf	2010-06-18 16:16:23.000000000 +0530
+@@ -9,13 +9,11 @@
+ 		<string>Meera</string>
+ 	</test>
+ 	<edit name="matrix" mode="assign">
+-		<times>
+ 			<name>matrix</name>
+ 			<matrix>
+ 				<double>1.2</double><double>0</double>
+ 				<double>0</double><double>1.2</double>
+ 			</matrix>
+-		</times>
+ 	</edit>
+ </match>
+ 

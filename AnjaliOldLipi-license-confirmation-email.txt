@@ -1,0 +1,77 @@
+*****
+This is a copy of the email received from the copyright holder of the AnjaliOldLipi fonts, confirming that the license is GPL.
+It was taken from https://fedoraproject.org/wiki/AnjaliOldLipi/LicenseEmail on Feb 25 2010.
+*****
+
+Delivered-To: pravin.d.s@gmail.com
+Received: by 10.216.187.201 with SMTP id y51cs178135wem;
+        Wed, 24 Feb 2010 04:20:01 -0800 (PST)
+Return-Path: <kevinsiji@gmail.com>
+Received-SPF: pass (google.com: domain of kevinsiji@gmail.com designates 10.220.127.97 as permitted sender) client-ip=10.220.127.97;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of kevinsiji@gmail.com designates 10.220.127.97 as permitted sender) smtp.mail=kevinsiji@gmail.com; dkim=pass header.i=kevinsiji@gmail.com
+Received: from mr.google.com ([10.220.127.97])
+        by 10.220.127.97 with SMTP id f33mr230815vcs.167.1267014000514 (num_hops = 1);
+        Wed, 24 Feb 2010 04:20:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:mime-version:received:in-reply-to:references
+         :date:message-id:subject:from:to:content-type;
+        bh=rxPAMWt/gsQOxHIAfbmaFTrxePzqXCrHfqvUu5U3Wp4=;
+        b=KBqjNh+f8BjVOKpnjkIXjGevaQvyJ2dlNLldMITuO6+FyNaBZIY1ueuORg3KzgRarh
+         b6H/VSSGaNNg1soxOJw04J3/V4EXlXCEOtBu4GnLJa3GsGXiigO+31ff/y2f+XbHIOMa
+         L40WT3Oo6DfrkT/Cn7B5fXaq5zRuHEGUaKkPM=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        b=cLeB4g35oZvZm8seV15nlwcMCGVS6QOXW4C8rz/5OrjyWbidZ7BDXbkRvwovSUIxhp
+         +t5mpfeIb8P5I9hA3vDmwtMcQNAZSrgyab6hE3E7y9kj3DY/v6d7SMrOGlM3nmiS0ZsA
+         SmcCNNOLqM4/eSmTYCv+ISWXXQooh8oQnj0ok=
+MIME-Version: 1.0
+Received: by 10.220.127.97 with SMTP id f33mr230815vcs.167.1267014000508; Wed, 
+	24 Feb 2010 04:20:00 -0800 (PST)
+In-Reply-To: <764372c81002240255o69c3d841x74f1262d59a40323@mail.gmail.com>
+References: <764372c81002240255o69c3d841x74f1262d59a40323@mail.gmail.com>
+Date: Wed, 24 Feb 2010 17:50:00 +0530
+Message-ID: <181ec4871002240420w126cbf27ke7d2662662b982e2@mail.gmail.com>
+Subject: Re: need information about AnjliOldLipi License
+From: "kevin & siji" <kevinsiji@gmail.com>
+To: =?UTF-8?B?4KSq4KWN4KSw4KS14KS/4KSjIOCkuOCkvuCkpOCkquClgeCkpOClhw==?= <pravin.d.s@gmail.com>
+Content-Type: multipart/alternative; boundary=0016369c8dee6d0022048057af61
+
+--0016369c8dee6d0022048057af61
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+2010/2/24 =E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=B5=E0=A4=BF=E0=A4=A3 =E0=A4=B8=
+=E0=A4=BE=E0=A4=A4=E0=A4=AA=E0=A5=81=E0=A4=A4=E0=A5=87 <pravin.d.s@gmail.co=
+m>
+
+> HI Kevin,
+>
+>   can you please let me know you have release AnjaliOldLipi under which
+> license?
+>
+
+GNU GPL, anything else is mere confusion due to my ignorance.
+
+--=20
+Kevin Siji
+
+--0016369c8dee6d0022048057af61
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"gmail_quote">2010/2/24 =E0=A4=AA=E0=A5=8D=E0=A4=B0=E0=A4=B5=
+=E0=A4=BF=E0=A4=A3 =E0=A4=B8=E0=A4=BE=E0=A4=A4=E0=A4=AA=E0=A5=81=E0=A4=A4=
+=E0=A5=87 <span dir=3D"ltr">&lt;<a href=3D"mailto:pravin.d.s@gmail.com">pra=
+vin.d.s@gmail.com</a>&gt;</span><br><blockquote class=3D"gmail_quote" style=
+=3D"border-left: 1px solid rgb(204, 204, 204); margin: 0pt 0pt 0pt 0.8ex; p=
+adding-left: 1ex;">
+HI Kevin,<br><br>=C2=A0 can you please let me know you have release AnjaliO=
+ldLipi under which license?<br></blockquote><div><br>GNU GPL, anything else=
+ is mere confusion due to my ignorance.<br>=C2=A0</div></div>-- <br>Kevin S=
+iji<br>
+
+
+--0016369c8dee6d0022048057af61--
